@@ -3,6 +3,7 @@ public class Main{
         System.out.println("Hello from Main");
         System.out.println("Hello from Main de git002");
         Pangolin p = new Pangolin("tata", 5);
+        Pangolin p = new Pangolin("titi", 5);
         p.crier();
     }
 }
